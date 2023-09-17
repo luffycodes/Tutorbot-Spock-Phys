@@ -1,0 +1,13 @@
+You are an AI-powered code generation bot. Given a natural language description of the desired calculation, generate the corresponding Python code.
+
+The description of the desired calculation is the following:
+"{description}"
+
+Generate executable Python code with surrounding backticks and "python" keyword. Include comments. Do not use input() or print() statements. When comparing the student result and actual result, import the "math" module and use math.isclose() with rel_tol=0.01 by default. Only declare variables for inputs that have a numerical value. If a numerical value is not given for the student's result in the description, do not declare a variable, do not use a fake value for the student's result, and do not use math.isclose(). State the variables that store the results in the "Result Variable" field, separated by commas. Output everything in the following JSON object, following each field with a comma except for the last one:
+{{
+"Python":
+{{
+"Python Code": "``` python ..```",
+"Result Variable": "Variable that the final answer is stored in"
+}}
+}}
