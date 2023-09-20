@@ -1,6 +1,6 @@
 ## Code Soliloquies for Reliable Calculations
 
-This repository contains code for the paper: [Code Soliloquies for Reliable Calculations](https://arxiv.org/abs/2305.13272)
+This repository contains code for the paper: [Code Soliloquies for Reliable Calculations](https://arxiv.org/abs/xxxx.yyyyy)
 
 ### Inference
 To use the model, first install the [fastchat](https://github.com/lm-sys/FastChat/) library, and then follow the steps here:
@@ -21,13 +21,12 @@ If you use this work, please cite:
 Code Soliloquies for Reliable Calculations
 https://arxiv.org/abs/2305.13272
 ```
-@misc{sonkar2023class,
-      title={CLASS Meet SPOCK: An Education Tutoring Chatbot based on Learning Science Principles}, 
-      author={Shashank Sonkar and Lucy Liu and Debshila Basu Mallick and Richard G. Baraniuk},
+@misc{sonkar2023code,
+      title={Code Soliloquies for Reliable Calculations}, 
+      author={Shashank Sonkar and MyCo Le and Xinghe Chen and Lucy Liu and Debshila Basu Mallick and Richard G. Baraniuk},
       year={2023},
-      eprint={2305.13272},
+      eprint={xxxx.yyyyy},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
 ```
-
