@@ -14,8 +14,8 @@ To use the model, first install the [fastchat](https://github.com/lm-sys/FastCha
 
 ### Creating synthetic conversational dataset to train Higgs
 #### Example of generating conversational dataset using GPT
-1. Run the [generate_conversations.py](https://github.com/luffycodes/Tutorbot-Spock-Phys/blob/main/prompts/conversation_gen/generate_conversations.py) 
-2. Remember to put [openai.api_key](https://github.com/luffycodes/Tutorbot-Spock-Phys/blob/main/prompts/conversation_gen/generate_conversations.py#L14)
+1. Run the [generate_conversations.py](https://github.com/luffycodes/Tutorbot-Spock-Phys/blob/main/prompts/conversation_gen/generate_conversations.py).
+2. Remember to put [openai.api_key](https://github.com/luffycodes/Tutorbot-Spock-Phys/blob/main/prompts/conversation_gen/generate_conversations.py#L14).
 3. Use the training instructions from [fastchat](https://github.com/lm-sys/FastChat/) library and run [train_higgs_lora.py](https://github.com/luffycodes/Tutorbot-Spock-Phys/blob/main/fastchat/train_higgs_lora.py).
 
 
@@ -32,3 +32,4 @@ https://arxiv.org/abs/2305.13272
       primaryClass={cs.CL}
 }
 ```
+
