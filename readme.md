@@ -21,7 +21,7 @@ To use the model, first install the [fastchat](https://github.com/lm-sys/FastCha
 
 If you use this work, please cite:
 Code Soliloquies for Reliable Calculations
-https://arxiv.org/abs/2305.13272
+https://arxiv.org/abs/xxxx.yyyyy
 ```
 @misc{sonkar2023code,
       title={Code Soliloquies for Reliable Calculations}, 
