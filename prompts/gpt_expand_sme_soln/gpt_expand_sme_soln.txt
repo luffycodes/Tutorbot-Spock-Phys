@@ -1,0 +1,24 @@
+Given a textbook problem and its textbook solution, generate a more descriptive, confluent step-by-step solution, explaining each step with natural language. Number each step with "Step 1) ... Step 2) ... Step 3) ... etc." Provide the intuition behind each step, as if you are a teacher explaining the solution to a student.
+Divide steps up to be small and digestible. Steps can be of the following types but are not limited to:
+- stating the known values that are provided in the question
+- describing which equation(s) to use
+- rearranging the equation to isolate the unknown variable on one side
+- performing unit conversions
+- plugging the known values into the equation and solving for the unknown variable
+- etc.
+
+The textbook problem is the following:
+"{question}"
+
+The solution is the following:
+"{solution}"
+
+Put the output in the following JSON structure, replacing any instances of ".." and following each field with a comma except for the last one:
+{{
+"Detailed Solution": "Step 1) .. Step 2) .. Step 3) .. etc.",
+"Solution Outline": "Step 1) .. Step 2) .. Step 3) .. etc."
+}}
+
+The function of the "Detailed Solution" field is to provide a detailed step-by-step solution based on the provided solution. Explain each step in detail, providing in-depth reasoning behind each step, and include both equations and calculations. However, do not perform your own calculations—only use the calculations provided in the solution. The detailed solution should be longer and more thorough than the overview.
+
+The function of the "Solution Outline" field is to create a low-level and concise outline of the detailed solution. Briefly explain each step and how they are connected in natural English. Include any equations or formulas and explain their purpose, but do not include any calculations. Describe the relationship between equations to demonstrate how the student can move from one step to the next.
