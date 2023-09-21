@@ -1,6 +1,6 @@
-## Code Soliloquies for Reliable Calculations
+## Code Soliloquies for Accurate Calculations in Large Language Models
 
-This repository contains code for the paper: [Code Soliloquies for Reliable Calculations](https://arxiv.org/abs/xxxx.yyyyy)
+This repository contains code for the paper: [Code Soliloquies for Accurate Calculations in Large Language Models](https://arxiv.org/abs/xxxx.yyyyy)
 
 Model: https://huggingface.co/luffycodes/higgs-llama-vicuna-ep25-70b
 
@@ -30,7 +30,7 @@ To use the model, first install the [fastchat](https://github.com/lm-sys/FastCha
 
 
 If you use this work, please cite:
-Code Soliloquies for Reliable Calculations
+Code Soliloquies for Accurate Calculations in Large Language Models
 https://arxiv.org/abs/xxxx.yyyyy
 ```
 @misc{sonkar2023code,
