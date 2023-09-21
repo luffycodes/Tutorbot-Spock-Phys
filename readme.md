@@ -34,7 +34,7 @@ Code Soliloquies for Accurate Calculations in Large Language Models
 https://arxiv.org/abs/xxxx.yyyyy
 ```
 @misc{sonkar2023code,
-      title={Code Soliloquies for Reliable Calculations}, 
+      title={Code Soliloquies for Accurate Calculations in Large Language Models}, 
       author={Shashank Sonkar and MyCo Le and Xinghe Chen and Lucy Liu and Debshila Basu Mallick and Richard G. Baraniuk},
       year={2023},
       eprint={xxxx.yyyyy},
