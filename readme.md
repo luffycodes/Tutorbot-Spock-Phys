@@ -1,6 +1,6 @@
 ## Code Soliloquies for Accurate Calculations in Large Language Models
 
-This repository contains code for the paper: [Code Soliloquies for Accurate Calculations in Large Language Models](https://arxiv.org/abs/xxxx.yyyyy)
+This repository contains code for the paper: [Code Soliloquies for Accurate Calculations in Large Language Models](https://arxiv.org/abs/2309.12161)
 
 Model: https://huggingface.co/luffycodes/higgs-llama-vicuna-ep25-70b
 
@@ -31,13 +31,13 @@ To use the model, first install the [fastchat](https://github.com/lm-sys/FastCha
 
 If you use this work, please cite:
 Code Soliloquies for Accurate Calculations in Large Language Models
-https://arxiv.org/abs/xxxx.yyyyy
+https://arxiv.org/abs/2309.12161
 ```
 @misc{sonkar2023code,
       title={Code Soliloquies for Accurate Calculations in Large Language Models}, 
       author={Shashank Sonkar and MyCo Le and Xinghe Chen and Lucy Liu and Debshila Basu Mallick and Richard G. Baraniuk},
       year={2023},
-      eprint={xxxx.yyyyy},
+      eprint={2309.12161},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
