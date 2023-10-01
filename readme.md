@@ -44,5 +44,5 @@ https://arxiv.org/abs/2309.12161
 ```
 
 **Demo:**
-![](https://github.com/luffycodes/Tutorbot-Spock-Phys/blob/main/higgs-demo-github.gif)
+![](https://github.com/luffycodes/Tutorbot-Spock-Phys/blob/main/higgs-demo.gif)
 
