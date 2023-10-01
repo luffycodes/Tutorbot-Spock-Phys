@@ -4,6 +4,8 @@ This repository contains code for the paper: [Code Soliloquies for Accurate Calc
 
 Model: https://huggingface.co/luffycodes/higgs-llama-vicuna-ep25-70b
 
+Demo can be found at the last of the readme.
+
 ### Inference
 To use the model, first install the [fastchat](https://github.com/lm-sys/FastChat/) library, and then follow the steps here:
 1. Update the [conversation.py](https://github.com/lm-sys/FastChat/blob/main/fastchat/conversation.py) from our [conversation_inference](https://github.com/luffycodes/Tutorbot-Spock-Phys/blob/main/fastchat/conversation_inference.py) repository in the FastChat folder.
