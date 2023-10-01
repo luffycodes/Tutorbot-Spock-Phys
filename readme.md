@@ -6,6 +6,7 @@ This repository contains code for the paper: Code Soliloquies for Accurate Calcu
 
 **Demo:**
 ![](https://github.com/luffycodes/Tutorbot-Spock-Phys/blob/main/higgs-demo-github.gif)
+Please see the file higgs-demo-github.gif
 
 ### Inference
 To use the model, first install the [fastchat](https://github.com/lm-sys/FastChat/) library, and then follow the steps here:
