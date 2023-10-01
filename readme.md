@@ -2,7 +2,7 @@
 
 This repository contains code for the paper: Code Soliloquies for Accurate Calculations in Large Language Models
 
-Model: https://huggingface.co/anonuseranonuser/tutorbot-spock-phys
+**Model**: https://huggingface.co/anonuseranonuser/tutorbot-spock-phys
 
 **Demo:**
 ![](https://github.com/luffycodes/Tutorbot-Spock-Phys/blob/main/higgs-demo-github.gif)
