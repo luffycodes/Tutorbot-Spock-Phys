@@ -4,6 +4,9 @@ This repository contains code for the paper: Code Soliloquies for Accurate Calcu
 
 Model: https://huggingface.co/anonuseranonuser/tutorbot-spock-phys
 
+**Demo:**
+![](https://github.com/luffycodes/Tutorbot-Spock-Phys/blob/main/higgs-demo-github.gif)
+
 ### Inference
 To use the model, first install the [fastchat](https://github.com/lm-sys/FastChat/) library, and then follow the steps here:
 1. Update the [conversation.py](https://github.com/lm-sys/FastChat/blob/main/fastchat/conversation.py) from our [conversation_inference](https://anonymous.4open.science/r/Tutorbot-Spock-Phys-FC5C/fastchat/conversation_inference.py) repository in the FastChat folder.
