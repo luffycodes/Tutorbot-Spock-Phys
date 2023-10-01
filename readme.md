@@ -5,7 +5,7 @@ This repository contains code for the paper: Code Soliloquies for Accurate Calcu
 **Model**: https://huggingface.co/anonuseranonuser/tutorbot-spock-phys
 
 **Demo:**
-![](https://github.com/luffycodes/Tutorbot-Spock-Phys/blob/main/higgs-demo.gif)
+![](https://anonymous.4open.science/r/Tutorbot-Spock-Phys-F2E7/higgs-demo.gif)
 Please see the file higgs-demo.gif
 
 ### Inference
