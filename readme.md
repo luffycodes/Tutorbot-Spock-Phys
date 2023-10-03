@@ -4,9 +4,7 @@ This repository contains code for the paper: Code Soliloquies for Accurate Calcu
 
 **Model**: https://huggingface.co/anonuseranonuser/tutorbot-spock-phys
 
-**Demo:**
-![](https://anonymous.4open.science/r/Tutorbot-Spock-Phys-F2E7/higgs-demo.gif)
-Please see the file higgs-demo.gif
+**Demo**: Please see the file higgs-demo.gif
 
 ### Inference
 To use the model, first install the [fastchat](https://github.com/lm-sys/FastChat/) library, and then follow the steps here:
