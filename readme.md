@@ -1,4 +1,4 @@
-## Code Soliloquies for Accurate Calculations in Large Language Models
+## Code Soliloquies for Accurate Calculations in Large Language Models (Accepted at [LAK](https://www.solaresearch.org/events/lak/lak24/)'24)
 
 This repository contains code for the paper: [Code Soliloquies for Accurate Calculations in Large Language Models](https://arxiv.org/abs/2309.12161)
 
